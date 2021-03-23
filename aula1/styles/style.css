@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 900px; 
+    background-image: url('images/turismo.png');
+    background-color:  #696969;
+    background-size: 100vh; 
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: #8ad69b;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #57a07e;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 100px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
